@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        className="org.zywx.wbpalmstar.plugin.uexgpuimage.EUExGPUImage" uexName="uexGPUImage">
+        <method name="open" />
+        <method name="openView" />
+        <method name="closeView"/>
+    </plugin>
+</uexplugins>
