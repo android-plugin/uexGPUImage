@@ -56,7 +56,7 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 14 //
-        applicationId 'org.zywx.wbpalmstar.widgetone.uexGPUImage'
+        applicationId 'org.zywx.wbpalmstar.widgetone.uexImageFilter'
         multiDexEnabled true
     }
     sourceSets {

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <uexplugins>
     <plugin
-        className="org.zywx.wbpalmstar.plugin.uexgpuimage.EUExGPUImage" uexName="uexGPUImage">
+        className="org.zywx.wbpalmstar.plugin.ueximagefilter.EUExImageFilter" uexName="uexImageFilter">
         <method name="open" type="0"/>
         <method name="openView" type="0"/>
         <method name="closeView"/>

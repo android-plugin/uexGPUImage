@@ -2,6 +2,8 @@
 <uexplugins>
     <plugin
         className="org.zywx.wbpalmstar.plugin.ueximagefilter.EUExImageFilter" uexName="uexImageFilter">
-        <method name="open" type="0"/>
+        <method name="open" />
+        <method name="openView" />
+        <method name="closeView"/>
     </plugin>
 </uexplugins>
