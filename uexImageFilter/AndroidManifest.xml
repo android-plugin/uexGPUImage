@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf8"?>
+    <manifest>
+    <activity
+        android:name="org.zywx.wbpalmstar.plugin.ueximagefilter.ImageFilterActivity"
+        android:theme="@android:style/Theme.DeviceDefault.NoActionBar"/>
+    </manifest>

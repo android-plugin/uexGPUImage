@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <uexplugins>
     <plugin
-        uexName="uexImageFilter" version="4.0.0" build="0">
-        <info>0:init</info>
+        uexName="uexImageFilter" version="4.0.1" build="2017101901">
+        <info>1:修复插件打包不显示滤镜界面</info>
+        <build>0:init</build>
     </plugin>
 </uexplugins>
